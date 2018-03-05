@@ -1,0 +1,10 @@
+wrong color = -3
+correct color = +5
+gap = -5
+removed = -5
+R - RED
+G - GREEN
+B - BLUE
+O - ORANGE
+E - GAP (EMPTY CELL)
+D - DELETED
